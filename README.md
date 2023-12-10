@@ -24,7 +24,7 @@ AI Enthusiast | Computer Vision Intern
 
 - 📫 How to reach me **vikas.c20@iiits.in**
 
-- ⚡ Fun fact **expert the unexpected in life**
+- ⚡ Fun fact **expect the unexpected in life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
