@@ -4,7 +4,6 @@
 Hello! I'm Vikas Chelluru, a final-year Electronics and Communication Engineering student at IIIT SRICITY. Passionate about the intersection of technology and problem-solving, my journey involves diverse projects in Computer Vision, IoT, Machine Learning, and MATLAB/Simulink,Deep Learning and NLP.
 
 🚀 Key Highlights:
-
 🤖 Currently exploring the realm of deep Learning/Computer Vision through projects and coursework.
 🌐 Experienced in IoT projects, leveraging the power of connected devices.
 🔍 Actively learning and implementing Deep Learning and Machine Learning techniques.
@@ -12,7 +11,6 @@ Hello! I'm Vikas Chelluru, a final-year Electronics and Communication Engineerin
 📡 Explored applications of MATLAB/Simulink in real-world problem-solving.
 
 🌟 Recently:
-
 🔗 Built a new segmentation model by modifying U-Net and combining it with other models, tested on real-world self-collected data.
 🚁 Explored the power of MATLAB/Simulink by creating a digital shadow of a mini Tello drone with OPC UA connectivity and Node-RED for visualization.
 👄 Implemented a lip-syncing project using a pretrained model on videos, demonstrating creativity and innovation.
