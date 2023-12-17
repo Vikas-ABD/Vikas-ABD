@@ -12,7 +12,7 @@ AI Enthusiast | Computer Vision Intern
 
 - 🔭 I’m currently working on [digital shadow of a mini Tello drone and object detection for Autonomous navigation with OPCUA connectivity and Node-RED for data visualization.](http://github.com/Vikas-ABD/tello_drone_controlled_and_simulation_objectdetection_using_simulink.git)
 
-- 🌱 I’m currently learning **NLP-Transformers**
+- 🌱 I’m currently learning **Generative Adversarial Networks (GAN) In Depth with Projects**
 
 - 👯 I’m looking to collaborate on **AI Real World Projects**
 
