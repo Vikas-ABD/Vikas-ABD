@@ -1,10 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vikas Chelluru
 ======================================================================================================================================
 
-AI Enthusiast | Computer Vision Intern
+🚀 Aspiring AI Engineer | Unleashing the Power of Vision with Computer Vision & Deep Learning 🌐 
 --------------------------------------
+ Bridging Boundaries with MATLAB & Python 🐍
 
-🚀 As a final-year Electronics and Communication Engineering student at IIIT SRICITY, I am passionate about pushing the boundaries of technology, especially in the realms of Computer Vision, IoT, and Artificial Intelligence. Currently honing my skills in Deep Learning, I'm on a mission to bridge theoretical knowledge with real-world applications. 🤖 My journey involves exploring the vast landscape of deep learning and computer vision through coursework and hands-on projects. I bring experience in IoT projects, connecting devices to enhance their capabilities, and actively implementing deep learning and machine learning techniques. 🌟 Key Highlights: 🔧 In my ongoing project, I'm developing a Helipad Detection system for Drone Charging, leveraging Computer Vision and Deep Learning to enhance precision and safety in autonomous drone landing. 🛠️ Recently, I delved into the power of MATLAB/Simulink by creating a digital shadow of a mini Tello drone with OPCUA connectivity and Node-RED for visualization. Additionally, I undertook a project focusing on lip syncing in videos using a pretrained model, demonstrating my diverse interests and skills. ✨ Always eager to collaborate, learn, and contribute to innovative projects. Let's build the future together!
+🔍 Exploring the fascinating realms of Artificial Intelligence, I am on a mission to revolutionize the way we perceive and interact with the digital world. As a fervent Computer Vision & Deep Learning enthusiast, I thrive on unraveling the mysteries of intelligent machines.
+
+💡 My journey involves crafting innovative solutions that meld the brilliance of Computer Vision algorithms with the depth of Deep Learning models. From image recognition to object detection, my passion lies in harnessing the potential of AI to reshape the future.
+
+🛠️ Armed with proficiency in both MATLAB and Python, I seamlessly traverse the intersection of two powerful worlds, amplifying my ability to create cutting-edge AI applications. Whether it's delving into MATLAB's computational prowess or harnessing the versatility of Python, I am committed to pushing the boundaries of what's possible.
+
+🌈 Join me in this exciting adventure as we dive into the dynamic landscape of AI, where every line of code contributes to shaping a smarter, more connected future. Let's code, innovate, and transform ideas into intelligent realities!
+
+✨ Let's build the future, one algorithm at a time. Together, let's redefine what's possible in the world of AI! 🚀 #AIEnthusiast #ComputerVision #DeepLearning #MATLAB #PythonMagician✨ Always eager to collaborate, learn, and contribute to innovative projects. Let's build the future together!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-abd&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-abd" /> </p>
 
