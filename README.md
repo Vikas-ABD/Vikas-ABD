@@ -16,15 +16,13 @@ Bridging Boundaries with MATLAB & Python 🐍
 
 ## Current Projects and Learning
 
-- 🔭 I’m currently working on [digital shadow of a mini Tello drone and object detection for Autonomous navigation with OPCUA connectivity and Node-RED for data visualization.](http://github.com/Vikas-ABD/tello_drone_controlled_and_simulation_objectdetection_using_simulink.git)
+- 🔭 I’m currently working on [Integrating Autonomous Code Summarization with Secure User Management using Django, Reactjs and SQL.](http://github.com/Vikas-ABD/tello_drone_controlled_and_simulation_objectdetection_using_simulink.git)
 
 - 🌱 I’m currently learning **Generative AI In Depth with Projects**
 
 - 👯 I’m looking to collaborate on **AI Real World Projects**
 
-- 🤝 I’m looking for help with **obtaining a job referral.**
-
-- 👨‍💻 All of my projects are available at [http://vikaschelluru.netlify.app/](http://vikaschelluru.netlify.app/)
+- 🤝 I’m looking for help with **obtaining a job in AI Field.**
 
 - 💬 Ask me about **How Things Work in AI**
 
@@ -63,4 +61,5 @@ Bridging Boundaries with MATLAB & Python 🐍
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vikas-abd&show_icons=true&locale=en&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikas-abd&show_icons=true&locale=en)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikas-abd)
+
 
